@@ -13,7 +13,7 @@ make clean
 #to remove ALL generated files, included Makefile (you have to run ./configure again, then)
 make distclean
 #to see the generated executable files
-ls
+ls . bin
 #to see all generated files
 lsa *
 #aka 
