@@ -34,4 +34,5 @@ done
 	echo -e "\t"'rm -f $(OBJ) $(TARGETS)'
 	echo 'distclean: clean'
         echo -e "\trm -f bin/* Makefile"
-
+echo "generating dirs" >/dev/stderr
+mkdir  bin obj

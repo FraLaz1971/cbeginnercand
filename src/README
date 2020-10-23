@@ -1,0 +1,53 @@
+# to compile all the examples type
+./configure
+# then type
+make
+#or
+gmake
+#to compile only one of them, say printone.c, type
+make printone
+#to remove all generated files type
+make clean
+# fahrtocels.c
+# gives a tab of fahrenheit and celsius values
+# takes the lower limit, the upper limit and the step
+# as input from the standard input (= command line arguments on the terminal)
+# to compile fahrtocels with gcc
+gcc     fahrtocels.c   -o fahrtocels
+# or in general on unix like OSs
+cc     fahrtocels.c   -o fahrtocels
+# with gnu make
+make fahrtocels
+# on MS win with MSVC compiler
+cl fahrtocels.c :out fahrtocels.exe
+# usage: ./fahrtocels <lower> <upper> <step>
+#example run
+$ ./fahrtocels 15 45 2
+15      -9
+17      -8
+19      -7
+21      -6
+23      -5
+25      -3
+27      -2
+29      -1
+31      0
+33      0
+35      1
+37      2
+39      3
+41      5
+43      6
+45      7
+########################
+# using makefiles
+########################
+#on linux/unix/mac/win-mingw using gcc
+make
+#or
+gmake 
+#on MS win using MSVC compiler
+gmake -f Makefile.vc
+# datatypes.c shows the datatypes size and limits
+# see more on https://www.tutorialspoint.com/cprogramming/c_data_types.htm
+

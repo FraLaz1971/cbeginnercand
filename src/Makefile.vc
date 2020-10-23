@@ -1,0 +1,17 @@
+CC = cl
+CFLAGS = /link /out:
+
+TARGET1 = struct_test-vc.exe
+
+all:  $(TARGET1)
+
+struct_test.obj: struct_test.c
+
+$(TARGET1): struct_test.obj
+	$(CC) struct_test.c $(CFLAGS)$(TARGET1)
+
+
+.PHONY: clean
+
+clean:
+	rm *.obj $(TARGET1)

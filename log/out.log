@@ -1,0 +1,103 @@
+std2 = Àl"
+# 2D PLOT metadata file start
+TERM, ps
+X_LABEL, time (s)
+Y_LABEL, amplitude (counts)
+TITLE, time vs amplitude
+PLOT_ENGINE, gnuplot
+INFILE, datafile010.tsv
+OUTFILE, outfile010.ps
+PLOT_NUMBER, 0
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, ps
+X_LABEL, time (s)
+Y_LABEL, amplitude (counts)
+TITLE, time vs amplitude
+PLOT_ENGINE, gnuplot
+INFILE, datafile010.tsv
+OUTFILE, outfile010.ps
+PLOT_NUMBER, 0
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, ps
+X_LABEL, time (s)
+Y_LABEL, amplitude (counts)
+TITLE, time vs amplitude
+PLOT_ENGINE, gnuplot
+INFILE, datafile010.tsv
+OUTFILE, outfile010.ps
+PLOT_NUMBER, 0
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, ps
+X_LABEL, time (s)
+Y_LABEL, amplitude (counts)
+TITLE, time vs amplitude
+PLOT_ENGINE, gnuplot
+INFILE, datafile010.tsv
+OUTFILE, outfile010.ps
+PLOT_NUMBER, 0
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, ps
+X_LABEL, time (s)
+Y_LABEL, amplitude (counts)
+TITLE, time vs amplitude
+PLOT_ENGINE, gnuplot
+INFILE, datafile010.tsv
+OUTFILE, outfile010.ps
+PLOT_NUMBER, 0
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, DEFAULT
+X_LABEL, DEFAULT
+Y_LABEL, DEFAULT
+TITLE, DEFAULT
+PLOT_ENGINE, DEFAULT
+INFILE, DEFAULT
+OUTFILE, DEFAULT
+PLOT_NUMBER, 1
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, DEFAULT
+X_LABEL, DEFAULT
+Y_LABEL, DEFAULT
+TITLE, DEFAULT
+PLOT_ENGINE, DEFAULT
+INFILE, DEFAULT
+OUTFILE, DEFAULT
+PLOT_NUMBER, 1
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, DEFAULT
+X_LABEL, DEFAULT
+Y_LABEL, DEFAULT
+TITLE, DEFAULT
+PLOT_ENGINE, DEFAULT
+INFILE, DEFAULT
+OUTFILE, DEFAULT
+PLOT_NUMBER, 1
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, DEFAULT
+X_LABEL, DEFAULT
+Y_LABEL, DEFAULT
+TITLE, DEFAULT
+PLOT_ENGINE, DEFAULT
+INFILE, DEFAULT
+OUTFILE, DEFAULT
+PLOT_NUMBER, 1
+# 2D PLOT metadata file end
+# 2D PLOT metadata file start
+TERM, DEFAULT
+X_LABEL, DEFAULT
+Y_LABEL, DEFAULT
+TITLE, DEFAULT
+PLOT_ENGINE, DEFAULT
+INFILE, DEFAULT
+OUTFILE, DEFAULT
+PLOT_NUMBER, 1
+# 2D PLOT metadata file end
+std2 = This is a text string
+std2 = ciao-pippo
